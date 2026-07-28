@@ -1,6 +1,6 @@
 {
   "name": "@prospective/pjas-prettier",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Shared Prettier config for pjas-lead, pjas-frontend, and pjas-bannersandbox",
   "main": "index.js",
   "files": [
