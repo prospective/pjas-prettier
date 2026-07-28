@@ -3,9 +3,9 @@
 Shared [Prettier](https://prettier.io) config for `pjas-lead`, `pjas-frontend`, and `pjas-bannersandbox`.
 
 ## Usage
-
+Install the package in the dependecies, instead of devDependencies, so that you can use it in the CI as well. Otherwise, use `--save-dev` to omit it on production
 ```
-npm install --save-dev prettier prettier-config-pjas
+npm install --save prettier prettier-config-pjas
 ```
 
 In `package.json`:
