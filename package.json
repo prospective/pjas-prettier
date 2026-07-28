@@ -1,0 +1,20 @@
+{
+  "name": "prettier-config-pjas",
+  "version": "1.0.0",
+  "description": "Shared Prettier config for pjas-lead, pjas-frontend, and pjas-bannersandbox",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prospective/prettier-config-pjas.git"
+  },
+  "license": "UNLICENSED"
+}
